@@ -30,12 +30,12 @@
 <table align="center" width="100%">
 <tr>
     <td align="center" width="50%" valign="top">
-      <h4>Linguagens mais utilizadas</h4>
+      <h3>Linguagens mais utilizadas</h3>
       <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=barbarastella&theme=light&layout=compact&langs_count=5&hide_border=true&hide_title=true" height="180" alt="Linguagens mais usadas" />
     </td>
     
 <td align="center" width="50%" valign="top">
-      <h4>Tecnologias e ferramentas</h4>
+      <h3>Tecnologias e ferramentas</h3>
       <img src="https://skillicons.dev/icons?i=ts,js,flutter,dart,cpp,java,nodejs,react,express,html,css,bootstrap,postgres,mongodb,git,firebase,linux,unity&perline=6" alt="Tecnologias e Ferramentas" />
     </td>
   </tr>
