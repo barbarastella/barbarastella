@@ -6,7 +6,7 @@
   Sou estudante de Ciência da Computação (IFSul-PF). <strong>Desenvolvedora back-end</strong>, com interesse por banco de dados e aprendendo programação para mobile.
 </p>
 
-- 💼 **Experiências:** Já atuei 1 ano como **suporte técnico** e participei 2 anos de um projeto de iniciação científica em parceria com a Embrapa, desenvolvendo um <strong>sistema full-stack</strong> utilizando React.js, TypeScript, Node.js e PostgreSQL (www.bis.cnptia.embrapa.br). Currículo completo <a target="_blank" href="https://drive.google.com/file/d/1OM4Sqb1gfINfa-SytqXrs0WCoGVxuyIZ/view?usp=sharing"><strong><u>aqui</u></strong></a>.
+- 💼 **Experiências:** Já atuei 1 ano como **suporte técnico** e participei 2 anos de um projeto de iniciação científica em parceria com a Embrapa, desenvolvendo um <strong>sistema full-stack</strong> utilizando React.js, TypeScript, Node.js e PostgreSQL (www.bis.cnptia.embrapa.br). Currículo completo <a target="_blank" href="https://drive.google.com/file/d/1VFSCHDg6WgIKFF07417oQey31XRFj5e0/view?usp=sharing"><strong><u>aqui</u></strong></a>.
 
 - 🌎 **Idiomas:** Inglês C2 (reading, listening) certificado pela <a href="https://cert.efset.org/LC68zg">EFSET</a>.
 - 📚 **Hobbies**: Ler, em especial literatura clássica.
